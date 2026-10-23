@@ -1,0 +1,24 @@
+{
+  "tool": "CornyIntel 1.0",
+  "generated_at": "2026-10-22T21:36:45+00:00",
+  "input": {
+    "username": null,
+    "discord_id": "80351110224678912"
+  },
+  "discord": {
+    "status": "decoded",
+    "id": "80351110224678912",
+    "created_at_utc": "2015-08-10T17:26:37.529000+00:00",
+    "profile_link": "https://discord.com/users/80351110224678912",
+    "note": "Snowflake timestamp is decoded mathematically; this does not verify account existence."
+  },
+  "checks": {},
+  "manual_searches": {
+    "Web exact match": "https://www.google.com/search?q=%2280351110224678912%22",
+    "Discord mentions": "https://www.google.com/search?q=%2280351110224678912%22+discord",
+    "Reddit mentions": "https://www.google.com/search?q=%2280351110224678912%22+site%3Areddit.com",
+    "GitHub mentions": "https://www.google.com/search?q=%2280351110224678912%22+site%3Agithub.com",
+    "Discord ID mentions": "https://www.google.com/search?q=%2280351110224678912%22"
+  },
+  "interpretation": "Matching usernames may belong to different people. Do not use as identity proof."
+}
